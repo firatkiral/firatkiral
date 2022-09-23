@@ -1,6 +1,4 @@
-### Coding enthusiast
-
-My personal projects:
+Personal projects:
 
 [pysketch.com](https://pysketch.com) / Creative Python coding in HTML5
 
