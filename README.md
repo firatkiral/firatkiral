@@ -1,12 +1,12 @@
 Personal projects:
 
-[pysketch.com](https://pysketch.com) / Creative Python coding in HTML5
+[pysketch.com](https://pysketch.com) - Creative Python coding in HTML5
 
-[instantui.com](https://instantui.com) / Lightweight JavaScript UI widgets (wip)
+[instantui.com](https://instantui.com) - Lightweight JavaScript UI widgets (wip)
 
-[instantrig.com](https://instantrig.com) / 3D auto rigging tool for 3DS Max
+[instantrig.com](https://instantrig.com) - 3D auto rigging tool for 3DS Max
 
-[deform3d.com](https://deform3d.com) / Online 3d editor (wip)
+[deform3d.com](https://deform3d.com) - Online 3d editor (wip)
 
 
 <!--
