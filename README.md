@@ -1,6 +1,8 @@
 Personal projects:
 
-[pysketch.com](https://pysketch.com) - Creative Python coding in HTML5
+[pysketch.com](https://pysketch.com) - Online python editor for creative coding in HTML5
+
+[live4vr.com](https://live4vr.com) - VR live streaming app
 
 [instantui.com](https://instantui.com) - Lightweight JavaScript UI widgets (wip)
 
