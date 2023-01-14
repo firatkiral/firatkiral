@@ -2,6 +2,8 @@ Personal projects:
 
 [pysketch.com](https://pysketch.com) - Online python editor for creative coding in HTML5
 
+[pypeek](https://github.com/firatkiral/pypeek) - Screen capture and recording tool with annotations
+
 [live4vr.com](https://live4vr.com) - VR live streaming app
 
 [instantui.com](https://instantui.com) - Lightweight JavaScript UI widgets (wip)
