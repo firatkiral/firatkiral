@@ -1,4 +1,4 @@
-Personal projects:
+Projects:
 
 [pysketch.com](https://pysketch.com) - Online python editor for creative coding in HTML5
 
