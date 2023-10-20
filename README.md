@@ -2,13 +2,11 @@ Projects:
 
 [pysketch.com](https://pysketch.com) - Online python editor for creative coding in HTML5
 
+[collobox.com](https://collobox.com) - Digital content management platform
+
 [Peek](https://github.com/firatkiral/pypeek) - Screen capture and recording tool with annotations
 
-[Blite](https://github.com/firatkiral/blite) - Lightweight batteries-included backend library
-
 [ControlDB](https://github.com/firatkiral/controldb) - Javascript document oriented database (Fork of [LokiJS](https://github.com/techfort/LokiJS)).
-
-[live4vr.com](https://live4vr.com) - VR live streaming app
 
 [instantui.com](https://instantui.com) - Lightweight JavaScript UI widgets (wip)
 
