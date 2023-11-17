@@ -1,16 +1,18 @@
 Projects:
 
+[PyPeek](https://github.com/firatkiral/pypeek) - Opensource screen capture and recording tool with annotations
+
+[collobox.com](https://collobox.com) - File sharing and collaboration platform
+
+[instantrig.com](https://instantrig.com) - 3D auto rigging script for 3DS Max
+
+[spacedrop.app](https://spacedrop.app) - Peer-to-peer file and text exchanging web application
+
 [pysketch.com](https://pysketch.com) - Online python editor for creative coding in HTML5
-
-[collobox.com](https://collobox.com) - Digital content management platform
-
-[Peek](https://github.com/firatkiral/pypeek) - Screen capture and recording tool with annotations
 
 [ControlDB](https://github.com/firatkiral/controldb) - Javascript document oriented database (Fork of [LokiJS](https://github.com/techfort/LokiJS)).
 
 [instantui.com](https://instantui.com) - Lightweight JavaScript UI widgets (wip)
-
-[instantrig.com](https://instantrig.com) - 3D auto rigging tool for 3DS Max
 
 [deform3d.com](https://deform3d.com) - Online 3d editor (wip)
 
