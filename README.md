@@ -1,6 +1,8 @@
 Projects:
 
-[PyPeek](https://github.com/firatkiral/pypeek) - Opensource screen capture and recording tool with annotations
+[KodiBot](https://kodibot.com) - Open source local AI chat assistant app for Desktop
+
+[PyPeek](https://github.com/firatkiral/pypeek) - Open source screen capture and recording tool with annotations
 
 [collobox.com](https://collobox.com) - File sharing and collaboration platform
 
